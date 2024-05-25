@@ -1,0 +1,24 @@
+Introduccion a la programacion para medios interactivos.
+ 
+Objetivos: 
+1- Promover la formacion de un estudiante capaz de aprender los cambios tecnologicos que acontecen en le medio.
+2- Desarrollar en el estudiante una actitud de investigacion sobre las tecnologias, con el fin de cubrir sus necesidades expresivas y comunicacionales.	
+
+
+Objetivos especificos:
+1- Que el estudiante conozca las tecnicas y herramientas necesarias para producir proyectos multimedias e interactivos.
+2-Que el estudiante aprenda la logica basica de la programacion de computadoras.
+3-que el estudiante codifique con lenguajes de programacion y comprenda metodologias y procesos que se utilizan en el desarrollo.
+
+Contenidos generales: 
+Processing: entorno y lenguaje de programacion. 
+GitHub: configuracion y uso de la plataforma.
+Introduccion a funciones, panel de funciones del usuario, modularidad y configuracion. Eventos en processing, interactividad mouse-teclado. Estructuras interactivas.
+Introduccion a las tecnologias web. sus protocolos, caracteristicas y funcionamientos de la world wide web. Evolucion de tecnologias web. 
+
+Dinamica de la cursada:
+-Publicacion periodica de contenidos audiovisuales e interactivos en colaboratiorio3.org
+-Encuentros presenciales semanales para complementar y desarrollar los contenidos presentados.	
+-Entrega de trabajos practicos, publicandolo en el espacio generado en colaboratorio3.org.
+-Dudas, consulta, seguimiento y asistencia por discord.
+
